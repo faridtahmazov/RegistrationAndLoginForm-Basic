@@ -22,12 +22,15 @@ Create a account.jsp;
 Demo
 
 Register page:
-![Screenshot (8)](https://user-images.githubusercontent.com/86052693/160163840-22c9a762-ab6b-41cb-99a1-ab30a34f8d7d.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/86052693/160165190-346096d8-f840-435d-8f6b-71f46d4a6bed.png)
+
 
 Login page:
-![Screenshot (7)](https://user-images.githubusercontent.com/86052693/160164028-55571e9d-2d02-4393-8eec-0d40581ebf65.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/86052693/160165224-fe194d26-68f8-4404-9160-f9ad45d9363c.png)
+
 
 Account page:
-![Screenshot (9)](https://user-images.githubusercontent.com/86052693/160164111-a4cef659-6400-4691-a611-4b37737eeef1.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/86052693/160165247-1c207b76-3f5b-4ee1-88a9-cc010f9ae6ed.png)
+
 
 
