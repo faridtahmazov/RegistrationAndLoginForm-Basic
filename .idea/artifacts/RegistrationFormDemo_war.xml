@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="RegistrationFormDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>RegistrationFormDemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="RegistrationFormDemo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="RegistrationFormDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
