@@ -1,12 +1,12 @@
 # RegistrationAndLoginFormDemo
 
 Tools and technologies used:
-JSP - 2.2 +
-IDE - Intellij Idea
-JDK - 1.8 or later
-Apache Tomcat - 8.5
-Servlet API - 4.0.1
-MySQL - mysql-connector-java-8.0.22.jar
+JSP - 2.2+;
+IDE - Intellij Idea;
+JDK - 1.8 or later;
+Apache Tomcat - 8.5;
+Servlet API - 4.0.1;
+MySQL - mysql-connector-java-8.0.22.jar;
 
 Development Steps:
 Create an Intellij Idea Dynamic Web Project;
@@ -19,7 +19,7 @@ Create a EmployeeController.java, AccountController.java, LoginController.java (
 Create a index.jsp (register);
 Create a login.jsp;
 Create a account.jsp;
-Demo
+Demo;
 
 Register page:
 ![Screenshot (9)](https://user-images.githubusercontent.com/86052693/160165190-346096d8-f840-435d-8f6b-71f46d4a6bed.png)
